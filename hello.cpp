@@ -4,5 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Hello Everyone";
+	string s;
+	cin>>s;
+	cout<<"Hello "<<s;
 }
